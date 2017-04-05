@@ -1,0 +1,2 @@
+Als erstes öffnen Sie das Terminal und geben sudo -su ein 
+Dann geben sie git clone https://github.com/FalkMichaelis
