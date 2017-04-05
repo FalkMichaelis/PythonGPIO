@@ -1,2 +1,5 @@
 Als erstes öffnen Sie das Terminal und geben sudo -su ein 
-Dann geben sie git clone https://github.com/FalkMichaelis
+Dann geben sie git clone https://github.com/FalkMichaelis/PythonGPIO.git ein
+Um nun an die Datein zu kommen geben Sie cd FalkMichaelis/PythonGPIO ein
+Nun sehen Sie alle Datein, wenn sie ls -l eingeben
+
